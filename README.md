@@ -1,5 +1,11 @@
-# RaceX Ada Stake Pool Website
+# Speekes Landing Page
 
-Here's the source of our main website hosted on github pages.
+### You own your data.
 
-https://racexpool.com
+## Welcome to your new 3rd Generation Social Media platform
+
+### A blockchain based platform with a social media as layer two solution.
+
+### [Speekes.com](https://speekes.com)
+---
+Team Speekes
